@@ -23,23 +23,6 @@
   />
 </div>
 
-<br/>
-
-<div align="center">
-  <!-- Stats Card (49% width) -->
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=Dhruv-Bhargava&show_icons=true&hide_rank=true&count_private=true&theme=custom&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&border_color=1E293B&border_radius=8" 
-    alt="Dhruv's GitHub Stats" 
-  />
-  &nbsp;
-  <!-- Top Languages Card (49% width) -->
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Bhargava&layout=compact&langs_count=6&theme=custom&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&border_color=1E293B&border_radius=8" 
-    alt="Dhruv's Top Languages" 
-  />
-</div>
 
 <br/>
 
